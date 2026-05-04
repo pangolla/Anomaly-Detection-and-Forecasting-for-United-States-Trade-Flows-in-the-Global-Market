@@ -1,0 +1,1564 @@
+country,year,gdp_billions
+United Kingdom,2017,2682.384
+United States,2017,19612.1
+Germany,2017,3764.023
+Austria,2017,414.78
+Belgium,2017,500.733
+Italy,2017,1970.027
+Denmark,2017,331.611
+France,2017,2587.955
+Netherlands,2017,847.934
+Luxembourg,2017,65.689
+"San Marino, Republic Of",2017,1.528
+Switzerland,2017,695.507
+Sweden,2017,535.172
+Norway,2017,401.745
+Finland,2017,253.757
+"Liechtenstein, Principality Of",2017,6.474
+Canada,2017,1649.266
+Japan,2017,4930.837
+"Andorra, Principality Of",2017,2.993
+Spain,2017,1321.288
+Malta,2017,14.156
+Greece,2017,200.31
+Iceland,2017,25.06
+Ireland,2017,348.232
+Portugal,2017,220.785
+Argentina,2017,643.861
+New Zealand,2017,203.819
+Australia,2017,1381.106
+"Tã¼Rkiye, Republic Of",2017,863.906
+South Africa,2017,381.317
+Colombia,2017,311.889
+Bolivia,2017,37.782
+Brazil,2017,2063.519
+Costa Rica,2017,60.517
+Chile,2017,276.357
+Ecuador,2017,104.467
+Dominican Republic,2017,79.153
+El Salvador,2017,24.979
+Mexico,2017,1190.721
+Panama,2017,64.49
+Haiti,2017,15.036
+Honduras,2017,23.138
+Guatemala,2017,71.624
+Nicaragua,2017,13.786
+Uruguay,2017,65.068
+"Venezuela, Repãºblica Bolivariana De",2017,115.883
+Peru,2017,219.525
+Paraguay,2017,38.997
+Dominica,2017,0.522
+"Bahamas, The",2017,12.447
+"Aruba, Kingdom Of The Netherlands",2017,3.092
+Antigua And Barbuda,2017,1.535
+Jamaica,2017,15.726
+Belize,2017,2.266
+Barbados,2017,5.517
+Grenada,2017,1.126
+St. Kitts And Nevis,2017,1.057
+Guyana,2017,4.748
+Puerto Rico,2017,103.446
+St. Vincent And The Grenadines,2017,0.844
+St. Lucia,2017,1.999
+Suriname,2017,3.592
+Trinidad And Tobago,2017,23.831
+Iraq,2017,190.048
+"Iran, Islamic Republic Of",2017,507.8
+"Bahrain, Kingdom Of",2017,37.205
+Cyprus,2017,22.938
+Oman,2017,80.857
+Kuwait,2017,120.688
+Jordan,2017,41.667
+Israel,2017,357.361
+Qatar,2017,161.099
+Lebanon,2017,53.03
+United Arab Emirates,2017,403.365
+"Egypt, Arab Republic Of",2017,246.826
+Saudi Arabia,2017,741.266
+"Afghanistan, Islamic Republic Of",2017,18.883
+"Yemen, Republic Of",2017,26.842
+West Bank And Gaza,2017,16.128
+Bangladesh,2017,293.755
+Bhutan,2017,2.462
+Cambodia,2017,29.394
+Myanmar,2017,66.083
+Brunei Darussalam,2017,12.128
+Indonesia,2017,1015.619
+Taiwan Province Of China,2017,591.687
+"Hong Kong Special Administrative Region, People'S Republic Of China",2017,341.271
+Sri Lanka,2017,94.376
+Malaysia,2017,319.109
+Lao People'S Democratic Republic,2017,17.055
+"Macao Special Administrative Region, People'S Republic Of China",2017,50.384
+"Korea, Republic Of",2017,1710.197
+"Timor-Leste, Democratic Republic Of",2017,1.585
+India,2017,2651.474
+Singapore,2017,343.673
+Philippines,2017,328.481
+Maldives,2017,4.809
+Nepal,2017,28.972
+Pakistan,2017,339.229
+"Palau, Republic Of",2017,0.29
+Thailand,2017,456.357
+Djibouti,2017,2.763
+Vietnam,2017,277.071
+Botswana,2017,16.105
+Angola,2017,139.835
+Algeria,2017,190.004
+Central African Republic,2017,2.198
+Cameroon,2017,36.086
+Burundi,2017,3.172
+Cabo Verde,2017,1.997
+"Congo, Democratic Republic Of The",2017,39.461
+"Congo, Republic Of",2017,11.83
+Chad,2017,13.258
+"Comoros, Union Of The",2017,1.077
+"Eritrea, The State Of",2017,1.904
+Benin,2017,12.766
+"Equatorial Guinea, Republic Of",2017,12.197
+Guinea-Bissau,2017,1.469
+"Ethiopia, The Federal Democratic Republic Of",2017,76.841
+"Gambia, The",2017,1.498
+Gabon,2017,14.924
+Guinea,2017,10.325
+Ghana,2017,60.385
+Malawi,2017,8.943
+Kenya,2017,81.965
+Cã´Te D'Ivoire,2017,52.512
+Liberia,2017,3.321
+"Lesotho, Kingdom Of",2017,2.424
+"Mauritania, Islamic Republic Of",2017,6.826
+Mali,2017,15.36
+"Madagascar, Republic Of",2017,13.176
+Libya,2017,67.153
+Morocco,2017,118.541
+Mauritius,2017,13.714
+Niger,2017,11.181
+Nigeria,2017,529.144
+"Mozambique, Republic Of",2017,13.265
+Sierra Leone,2017,5.823
+Senegal,2017,20.989
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2017,0.325
+Rwanda,2017,9.253
+Zimbabwe,2017,31.018
+Sudan,2017,48.906
+"South Sudan, Republic Of",2017,1.19
+Somalia,2017,8.252
+Seychelles,2017,1.675
+Namibia,2017,12.883
+Tunisia,2017,42.167
+Togo,2017,6.385
+"Tanzania, United Republic Of",2017,54.0
+"Eswatini, Kingdom Of",2017,4.468
+Solomon Islands,2017,1.47
+Kiribati,2017,0.223
+Burkina Faso,2017,14.094
+Uganda,2017,31.589
+Zambia,2017,25.874
+Tonga,2017,0.46
+Vanuatu,2017,0.88
+Samoa,2017,0.885
+"Nauru, Republic Of",2017,0.109
+"Fiji, Republic Of",2017,5.353
+Papua New Guinea,2017,22.743
+"Belarus, Republic Of",2017,54.723
+"Marshall Islands, Republic Of The",2017,0.214
+"Micronesia, Federated States Of",2017,0.361
+Tuvalu,2017,0.045
+"Armenia, Republic Of",2017,11.527
+"Azerbaijan, Republic Of",2017,41.375
+Albania,2017,13.053
+"Kazakhstan, Republic Of",2017,166.806
+Georgia,2017,16.472
+Russian Federation,2017,1575.14
+Bulgaria,2017,59.288
+Kyrgyz Republic,2017,7.703
+"Moldova, Republic Of",2017,9.515
+"Tajikistan, Republic Of",2017,7.535
+"China, People'S Republic Of",2017,12503.299
+"Uzbekistan, Republic Of",2017,69.703
+Czech Republic,2017,221.564
+Turkmenistan,2017,37.926
+Ukraine,2017,112.064
+"Serbia, Republic Of",2017,45.973
+"Latvia, Republic Of",2017,29.381
+Slovak Republic,2017,95.944
+"Estonia, Republic Of",2017,27.46
+Mongolia,2017,11.481
+Montenegro,2017,4.802
+Hungary,2017,143.335
+"Slovenia, Republic Of",2017,48.136
+Bosnia And Herzegovina,2017,18.363
+"Lithuania, Republic Of",2017,47.745
+"Croatia, Republic Of",2017,56.166
+"Poland, Republic Of",2017,528.497
+"North Macedonia, Republic Of",2017,11.336
+"Kosovo, Republic Of",2017,7.178
+Romania,2017,210.53
+United Kingdom,2018,2875.024
+United States,2018,20656.525
+Germany,2018,4057.272
+Austria,2018,452.787
+Belgium,2018,542.885
+Italy,2018,2100.387
+Denmark,2018,355.293
+France,2018,2782.838
+Netherlands,2018,930.155
+Luxembourg,2018,71.118
+"San Marino, Republic Of",2018,1.656
+Switzerland,2018,725.889
+Sweden,2018,549.649
+Norway,2018,439.789
+Finland,2018,273.993
+"Liechtenstein, Principality Of",2018,6.693
+Canada,2018,1725.3
+Japan,2018,5040.881
+"Andorra, Principality Of",2018,3.217
+Spain,2018,1432.292
+Malta,2018,16.161
+Greece,2018,213.396
+Iceland,2018,26.678
+Ireland,2018,395.96
+Portugal,2018,242.203
+Argentina,2018,524.431
+New Zealand,2018,209.747
+Australia,2018,1417.158
+"Tã¼Rkiye, Republic Of",2018,807.318
+South Africa,2018,405.093
+Colombia,2018,334.124
+Bolivia,2018,40.581
+Brazil,2018,1916.934
+Costa Rica,2018,62.422
+Chile,2018,295.428
+Ecuador,2018,107.479
+Dominican Republic,2018,85.068
+El Salvador,2018,26.021
+Mexico,2018,1256.3
+Panama,2018,67.316
+Haiti,2018,16.454
+Honduras,2018,24.067
+Guatemala,2018,73.331
+Nicaragua,2018,13.025
+Uruguay,2018,65.37
+"Venezuela, Repãºblica Bolivariana De",2018,102.021
+Peru,2018,229.824
+Paraguay,2018,40.225
+Dominica,2018,0.555
+"Bahamas, The",2018,12.819
+"Aruba, Kingdom Of The Netherlands",2018,3.276
+Antigua And Barbuda,2018,1.662
+Jamaica,2018,16.767
+Belize,2018,2.286
+Barbados,2018,5.63
+Grenada,2018,1.167
+St. Kitts And Nevis,2018,1.077
+Guyana,2018,4.788
+Puerto Rico,2018,100.958
+St. Vincent And The Grenadines,2018,0.884
+St. Lucia,2018,2.061
+Suriname,2018,3.996
+Trinidad And Tobago,2018,23.883
+Iraq,2018,230.189
+"Iran, Islamic Republic Of",2018,343.713
+"Bahrain, Kingdom Of",2018,39.568
+Cyprus,2018,25.766
+Oman,2018,91.506
+Kuwait,2018,138.655
+Jordan,2018,43.432
+Israel,2018,375.471
+Qatar,2018,183.335
+Lebanon,2018,54.9
+United Arab Emirates,2018,440.56
+"Egypt, Arab Republic Of",2018,263.156
+Saudi Arabia,2018,886.564
+"Afghanistan, Islamic Republic Of",2018,18.336
+"Yemen, Republic Of",2018,21.606
+West Bank And Gaza,2018,16.277
+Bangladesh,2018,321.379
+Bhutan,2018,2.651
+Cambodia,2018,33.181
+Myanmar,2018,67.491
+Brunei Darussalam,2018,13.567
+Indonesia,2018,1042.272
+Taiwan Province Of China,2018,610.69
+"Hong Kong Special Administrative Region, People'S Republic Of China",2018,361.731
+Sri Lanka,2018,94.484
+Malaysia,2018,358.783
+Lao People'S Democratic Republic,2018,18.131
+"Macao Special Administrative Region, People'S Republic Of China",2018,55.191
+"Korea, Republic Of",2018,1824.251
+"Timor-Leste, Democratic Republic Of",2018,1.556
+India,2018,2702.93
+Singapore,2018,377.124
+Philippines,2018,346.842
+Maldives,2018,5.398
+Nepal,2018,33.112
+Pakistan,2018,356.163
+"Palau, Republic Of",2018,0.288
+Thailand,2018,506.754
+Djibouti,2018,2.913
+Vietnam,2018,304.47
+Botswana,2018,17.032
+Angola,2018,114.189
+Algeria,2018,194.507
+Central African Republic,2018,2.383
+Cameroon,2018,39.992
+Burundi,2018,3.037
+Cabo Verde,2018,2.205
+"Congo, Democratic Republic Of The",2018,48.037
+"Congo, Republic Of",2018,14.781
+Chad,2018,15.169
+"Comoros, Union Of The",2018,1.179
+"Eritrea, The State Of",2018,2.006
+Benin,2018,14.346
+"Equatorial Guinea, Republic Of",2018,13.309
+Guinea-Bissau,2018,1.555
+"Ethiopia, The Federal Democratic Republic Of",2018,80.207
+"Gambia, The",2018,1.662
+Gabon,2018,16.83
+Guinea,2018,11.857
+Ghana,2018,67.259
+Malawi,2018,9.882
+Kenya,2018,92.211
+Cã´Te D'Ivoire,2018,58.522
+Liberia,2018,3.264
+"Lesotho, Kingdom Of",2018,2.472
+"Mauritania, Islamic Republic Of",2018,7.472
+Mali,2018,17.079
+"Madagascar, Republic Of",2018,13.76
+Libya,2018,76.682
+Morocco,2018,127.341
+Mauritius,2018,14.736
+Niger,2018,12.814
+Nigeria,2018,593.897
+"Mozambique, Republic Of",2018,15.017
+Sierra Leone,2018,6.39
+Senegal,2018,23.127
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2018,0.387
+Rwanda,2018,9.638
+Zimbabwe,2018,53.914
+Sudan,2018,33.59
+"South Sudan, Republic Of",2018,2.78
+Somalia,2018,7.873
+Seychelles,2018,1.777
+Namibia,2018,13.676
+Tunisia,2018,42.687
+Togo,2018,7.032
+"Tanzania, United Republic Of",2018,54.775
+"Eswatini, Kingdom Of",2018,4.645
+Solomon Islands,2018,1.615
+Kiribati,2018,0.234
+Burkina Faso,2018,15.916
+Uganda,2018,34.126
+Zambia,2018,26.312
+Tonga,2018,0.481
+Vanuatu,2018,0.884
+Samoa,2018,0.878
+"Nauru, Republic Of",2018,0.131
+"Fiji, Republic Of",2018,5.581
+Papua New Guinea,2018,24.11
+"Belarus, Republic Of",2018,60.011
+"Marshall Islands, Republic Of The",2018,0.22
+"Micronesia, Federated States Of",2018,0.394
+Tuvalu,2018,0.048
+"Armenia, Republic Of",2018,12.458
+"Azerbaijan, Republic Of",2018,47.113
+Albania,2018,15.38
+"Kazakhstan, Republic Of",2018,179.34
+Georgia,2018,17.905
+Russian Federation,2018,1653.005
+Bulgaria,2018,66.318
+Kyrgyz Republic,2018,8.271
+"Moldova, Republic Of",2018,11.252
+"Tajikistan, Republic Of",2018,7.762
+"China, People'S Republic Of",2018,14110.963
+"Uzbekistan, Republic Of",2018,58.696
+Czech Republic,2018,251.992
+Turkmenistan,2018,40.762
+Ukraine,2018,130.905
+"Serbia, Republic Of",2018,52.788
+"Latvia, Republic Of",2018,33.263
+Slovak Republic,2018,106.66
+"Estonia, Republic Of",2018,31.237
+Mongolia,2018,13.207
+Montenegro,2018,5.436
+Hungary,2018,161.185
+"Slovenia, Republic Of",2018,53.713
+Bosnia And Herzegovina,2018,20.504
+"Lithuania, Republic Of",2018,54.294
+"Croatia, Republic Of",2018,61.694
+"Poland, Republic Of",2018,594.641
+"North Macedonia, Republic Of",2018,12.694
+"Kosovo, Republic Of",2018,7.882
+Romania,2018,243.651
+United Kingdom,2019,2853.074
+United States,2019,21539.975
+Germany,2019,3960.332
+Austria,2019,443.033
+Belgium,2019,536.787
+Italy,2019,2019.831
+Denmark,2019,345.402
+France,2019,2723.094
+Netherlands,2019,929.006
+Luxembourg,2019,69.88
+"San Marino, Republic Of",2019,1.616
+Switzerland,2019,721.896
+Sweden,2019,530.894
+Norway,2019,408.743
+Finland,2019,267.044
+"Liechtenstein, Principality Of",2019,6.437
+Canada,2019,1743.725
+Japan,2019,5117.995
+"Andorra, Principality Of",2019,3.155
+Spain,2019,1403.651
+Malta,2019,16.34
+Greece,2019,207.329
+Iceland,2019,24.986
+Ireland,2019,407.256
+Portugal,2019,240.142
+Argentina,2019,446.762
+New Zealand,2019,210.995
+Australia,2019,1386.289
+"Tã¼Rkiye, Republic Of",2019,775.223
+South Africa,2019,389.245
+Colombia,2019,323.054
+Bolivia,2019,41.193
+Brazil,2019,1873.286
+Costa Rica,2019,64.412
+Chile,2019,278.04
+Ecuador,2019,107.596
+Dominican Republic,2019,89.237
+El Salvador,2019,26.881
+Mexico,2019,1304.106
+Panama,2019,69.779
+Haiti,2019,14.787
+Honduras,2019,24.883
+Guatemala,2019,77.156
+Nicaragua,2019,12.713
+Uruguay,2019,62.229
+"Venezuela, Repãºblica Bolivariana De",2019,73.014
+Peru,2019,236.414
+Paraguay,2019,37.925
+Dominica,2019,0.612
+"Bahamas, The",2019,13.277
+"Aruba, Kingdom Of The Netherlands",2019,3.347
+Antigua And Barbuda,2019,1.726
+Jamaica,2019,17.002
+Belize,2019,2.381
+Barbados,2019,5.788
+Grenada,2019,1.213
+St. Kitts And Nevis,2019,1.108
+Guyana,2019,5.174
+Puerto Rico,2019,105.126
+St. Vincent And The Grenadines,2019,0.91
+St. Lucia,2019,2.095
+Suriname,2019,4.016
+Trinidad And Tobago,2019,23.478
+Iraq,2019,236.682
+"Iran, Islamic Republic Of",2019,252.142
+"Bahrain, Kingdom Of",2019,40.447
+Cyprus,2019,26.2
+Oman,2019,88.061
+Kuwait,2019,140.855
+Jordan,2019,44.566
+Israel,2019,399.209
+Qatar,2019,176.371
+Lebanon,2019,50.928
+United Arab Emirates,2019,433.926
+"Egypt, Arab Republic Of",2019,317.894
+Saudi Arabia,2019,888.888
+"Afghanistan, Islamic Republic Of",2019,18.876
+"Yemen, Republic Of",2019,21.888
+West Bank And Gaza,2019,17.134
+Bangladesh,2019,351.238
+Bhutan,2019,2.618
+Cambodia,2019,36.682
+Myanmar,2019,75.282
+Brunei Darussalam,2019,13.469
+Indonesia,2019,1119.1
+Taiwan Province Of China,2019,613.512
+"Hong Kong Special Administrative Region, People'S Republic Of China",2019,363.075
+Sri Lanka,2019,89.015
+Malaysia,2019,365.178
+Lao People'S Democratic Republic,2019,18.77
+"Macao Special Administrative Region, People'S Republic Of China",2019,55.082
+"Korea, Republic Of",2019,1751.046
+"Timor-Leste, Democratic Republic Of",2019,2.033
+India,2019,2835.606
+Singapore,2019,376.162
+Philippines,2019,376.823
+Maldives,2019,5.716
+Nepal,2019,34.186
+Pakistan,2019,321.071
+"Palau, Republic Of",2019,0.282
+Thailand,2019,543.977
+Djibouti,2019,3.089
+Vietnam,2019,331.818
+Botswana,2019,16.696
+Angola,2019,94.671
+Algeria,2019,193.361
+Central African Republic,2019,2.444
+Cameroon,2019,39.673
+Burundi,2019,3.009
+Cabo Verde,2019,2.251
+"Congo, Democratic Republic Of The",2019,50.891
+"Congo, Republic Of",2019,13.977
+Chad,2019,14.819
+"Comoros, Union Of The",2019,1.188
+"Eritrea, The State Of",2019,1.982
+Benin,2019,14.697
+"Equatorial Guinea, Republic Of",2019,11.365
+Guinea-Bissau,2019,1.487
+"Ethiopia, The Federal Democratic Republic Of",2019,92.608
+"Gambia, The",2019,1.806
+Gabon,2019,16.875
+Guinea,2019,13.443
+Ghana,2019,68.353
+Malawi,2019,11.031
+Kenya,2019,100.328
+Cã´Te D'Ivoire,2019,60.383
+Liberia,2019,3.08
+"Lesotho, Kingdom Of",2019,2.323
+"Mauritania, Islamic Republic Of",2019,7.894
+Mali,2019,17.281
+"Madagascar, Republic Of",2019,14.105
+Libya,2019,69.237
+Morocco,2019,128.92
+Mauritius,2019,14.436
+Niger,2019,12.917
+Nigeria,2019,668.219
+"Mozambique, Republic Of",2019,15.513
+Sierra Leone,2019,6.519
+Senegal,2019,23.405
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2019,0.416
+Rwanda,2019,10.349
+Zimbabwe,2019,39.776
+Sudan,2019,31.484
+"South Sudan, Republic Of",2019,4.044
+Somalia,2019,8.655
+Seychelles,2019,1.867
+Namibia,2019,12.539
+Tunisia,2019,41.905
+Togo,2019,6.993
+"Tanzania, United Republic Of",2019,58.797
+"Eswatini, Kingdom Of",2019,4.617
+Solomon Islands,2019,1.619
+Kiribati,2019,0.217
+Burkina Faso,2019,16.092
+Uganda,2019,37.895
+Zambia,2019,23.309
+Tonga,2019,0.494
+Vanuatu,2019,0.93
+Samoa,2019,0.913
+"Nauru, Republic Of",2019,0.125
+"Fiji, Republic Of",2019,5.345
+Papua New Guinea,2019,24.751
+"Belarus, Republic Of",2019,64.414
+"Marshall Islands, Republic Of The",2019,0.233
+"Micronesia, Federated States Of",2019,0.395
+Tuvalu,2019,0.054
+"Armenia, Republic Of",2019,13.619
+"Azerbaijan, Republic Of",2019,48.174
+Albania,2019,15.582
+"Kazakhstan, Republic Of",2019,181.667
+Georgia,2019,17.645
+Russian Federation,2019,1695.724
+Bulgaria,2019,68.639
+Kyrgyz Republic,2019,9.372
+"Moldova, Republic Of",2019,11.737
+"Tajikistan, Republic Of",2019,8.301
+"China, People'S Republic Of",2019,14572.41
+"Uzbekistan, Republic Of",2019,67.294
+Czech Republic,2019,256.794
+Turkmenistan,2019,44.974
+Ukraine,2019,153.904
+"Serbia, Republic Of",2019,53.865
+"Latvia, Republic Of",2019,33.103
+Slovak Republic,2019,105.855
+"Estonia, Republic Of",2019,31.877
+Mongolia,2019,14.206
+Montenegro,2019,5.484
+Hungary,2019,164.927
+"Slovenia, Republic Of",2019,53.916
+Bosnia And Herzegovina,2019,20.485
+"Lithuania, Republic Of",2019,55.132
+"Croatia, Republic Of",2019,61.472
+"Poland, Republic Of",2019,602.592
+"North Macedonia, Republic Of",2019,12.609
+"Kosovo, Republic Of",2019,7.9
+Romania,2019,251.652
+United Kingdom,2020,2698.705
+United States,2020,21375.275
+Germany,2020,3938.244
+Austria,2020,434.05
+Belgium,2020,529.269
+Italy,2020,1905.956
+Denmark,2020,355.631
+France,2020,2645.806
+Netherlands,2020,931.814
+Luxembourg,2020,73.612
+"San Marino, Republic Of",2020,1.543
+Switzerland,2020,741.288
+Sweden,2020,544.266
+Norway,2020,367.633
+Finland,2020,269.784
+"Liechtenstein, Principality Of",2020,6.405
+Canada,2020,1655.685
+Japan,2020,5054.069
+"Andorra, Principality Of",2020,2.885
+Spain,2020,1288.751
+Malta,2020,16.392
+Greece,2020,191.21
+Iceland,2020,22.035
+Ireland,2020,435.659
+Portugal,2020,229.435
+Argentina,2020,385.218
+New Zealand,2020,210.54
+Australia,2020,1362.665
+"Tã¼Rkiye, Republic Of",2020,730.345
+South Africa,2020,337.876
+Colombia,2020,270.348
+Bolivia,2020,36.897
+Brazil,2020,1476.092
+Costa Rica,2020,62.382
+Chile,2020,254.06
+Ecuador,2020,95.865
+Dominican Republic,2020,78.625
+El Salvador,2020,24.921
+Mexico,2020,1121.065
+Panama,2020,57.06
+Haiti,2020,14.508
+Honduras,2020,23.35
+Guatemala,2020,77.718
+Nicaragua,2020,12.73
+Uruguay,2020,53.557
+"Venezuela, Repãºblica Bolivariana De",2020,42.838
+Peru,2020,209.984
+Paraguay,2020,35.432
+Dominica,2020,0.504
+"Bahamas, The",2020,10.363
+"Aruba, Kingdom Of The Netherlands",2020,2.456
+Antigua And Barbuda,2020,1.412
+Jamaica,2020,15.079
+Belize,2020,2.047
+Barbados,2020,5.168
+Grenada,2020,1.043
+St. Kitts And Nevis,2020,0.884
+Guyana,2020,5.471
+Puerto Rico,2020,103.131
+St. Vincent And The Grenadines,2020,0.864
+St. Lucia,2020,1.511
+Suriname,2020,2.912
+Trinidad And Tobago,2020,20.889
+Iraq,2020,182.576
+"Iran, Islamic Republic Of",2020,209.51
+"Bahrain, Kingdom Of",2020,35.838
+Cyprus,2020,25.535
+Oman,2020,75.909
+Kuwait,2020,111.048
+Jordan,2020,43.762
+Israel,2020,410.909
+Qatar,2020,144.411
+Lebanon,2020,24.976
+United Arab Emirates,2020,357.162
+"Egypt, Arab Republic Of",2020,382.525
+Saudi Arabia,2020,767.303
+"Afghanistan, Islamic Republic Of",2020,20.136
+"Yemen, Republic Of",2020,20.22
+West Bank And Gaza,2020,15.532
+Bangladesh,2020,373.902
+Bhutan,2020,2.586
+Cambodia,2020,34.898
+Myanmar,2020,76.987
+Brunei Darussalam,2020,12.006
+Indonesia,2020,1059.055
+Taiwan Province Of China,2020,676.861
+"Hong Kong Special Administrative Region, People'S Republic Of China",2020,344.941
+Sri Lanka,2020,84.304
+Malaysia,2020,337.456
+Lao People'S Democratic Republic,2020,18.511
+"Macao Special Administrative Region, People'S Republic Of China",2020,25.344
+"Korea, Republic Of",2020,1744.455
+"Timor-Leste, Democratic Republic Of",2020,2.163
+India,2020,2674.852
+Singapore,2020,349.166
+Philippines,2020,361.751
+Maldives,2020,3.706
+Nepal,2020,33.434
+Pakistan,2020,300.41
+"Palau, Republic Of",2020,0.259
+Thailand,2020,500.462
+Djibouti,2020,3.144
+Vietnam,2020,346.31
+Botswana,2020,14.93
+Angola,2020,66.521
+Algeria,2020,164.774
+Central African Republic,2020,2.48
+Cameroon,2020,40.863
+Burundi,2020,3.089
+Cabo Verde,2020,1.829
+"Congo, Democratic Republic Of The",2020,51.912
+"Congo, Republic Of",2020,11.485
+Chad,2020,14.812
+"Comoros, Union Of The",2020,1.218
+Benin,2020,15.674
+"Equatorial Guinea, Republic Of",2020,9.908
+Guinea-Bissau,2020,1.523
+"Ethiopia, The Federal Democratic Republic Of",2020,96.611
+"Gambia, The",2020,1.809
+Gabon,2020,15.364
+Guinea,2020,14.089
+Ghana,2020,70.008
+Malawi,2020,11.847
+Kenya,2020,100.922
+Cã´Te D'Ivoire,2020,63.119
+Liberia,2020,3.037
+"Lesotho, Kingdom Of",2020,2.092
+"Mauritania, Islamic Republic Of",2020,8.464
+Mali,2020,17.491
+"Madagascar, Republic Of",2020,13.051
+Libya,2020,46.893
+Morocco,2020,121.354
+Mauritius,2020,11.408
+Niger,2020,13.764
+Nigeria,2020,598.725
+"Mozambique, Republic Of",2020,14.235
+Sierra Leone,2020,6.682
+Senegal,2020,24.534
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2020,0.476
+Rwanda,2020,10.174
+Zimbabwe,2020,39.962
+Sudan,2020,35.237
+"South Sudan, Republic Of",2020,5.423
+Somalia,2020,8.628
+Seychelles,2020,1.384
+Namibia,2020,10.583
+Tunisia,2020,42.494
+Togo,2020,7.4
+"Tanzania, United Republic Of",2020,63.373
+"Eswatini, Kingdom Of",2020,4.122
+Solomon Islands,2020,1.536
+Kiribati,2020,0.222
+Burkina Faso,2020,17.837
+Uganda,2020,37.888
+Zambia,2020,18.138
+Tonga,2020,0.503
+Vanuatu,2020,1.008
+Samoa,2020,0.869
+"Nauru, Republic Of",2020,0.125
+"Fiji, Republic Of",2020,4.228
+Papua New Guinea,2020,23.848
+"Belarus, Republic Of",2020,61.312
+"Marshall Islands, Republic Of The",2020,0.242
+"Micronesia, Federated States Of",2020,0.373
+Tuvalu,2020,0.053
+"Armenia, Republic Of",2020,12.642
+"Azerbaijan, Republic Of",2020,42.693
+Albania,2020,15.271
+"Kazakhstan, Republic Of",2020,171.082
+Georgia,2020,16.013
+Russian Federation,2020,1488.118
+Bulgaria,2020,70.658
+Kyrgyz Republic,2020,8.283
+"Moldova, Republic Of",2020,11.53
+"Tajikistan, Republic Of",2020,8.134
+"China, People'S Republic Of",2020,15103.357
+"Uzbekistan, Republic Of",2020,66.443
+Czech Republic,2020,251.11
+Turkmenistan,2020,45.455
+Ukraine,2020,156.566
+"Serbia, Republic Of",2020,55.874
+"Latvia, Republic Of",2020,33.353
+Slovak Republic,2020,107.646
+"Estonia, Republic Of",2020,31.795
+Mongolia,2020,13.313
+Montenegro,2020,4.73
+Hungary,2020,158.468
+"Slovenia, Republic Of",2020,53.342
+Bosnia And Herzegovina,2020,20.264
+"Lithuania, Republic Of",2020,57.352
+"Croatia, Republic Of",2020,57.919
+"Poland, Republic Of",2020,605.93
+"North Macedonia, Republic Of",2020,12.385
+"Kosovo, Republic Of",2020,7.728
+Romania,2020,252.372
+United Kingdom,2021,3144.079
+United States,2021,23725.65
+Germany,2021,4358.147
+Austria,2021,480.786
+Belgium,2021,598.92
+Italy,2021,2180.657
+Denmark,2021,406.11
+France,2021,2968.405
+Netherlands,2021,1055.173
+Luxembourg,2021,86.444
+"San Marino, Republic Of",2021,1.857
+Switzerland,2021,814.696
+Sweden,2021,631.693
+Norway,2021,503.368
+Finland,2021,294.419
+"Liechtenstein, Principality Of",2021,7.913
+Canada,2021,2022.382
+Japan,2021,5039.148
+"Andorra, Principality Of",2021,3.325
+Spain,2021,1462.216
+Malta,2021,19.753
+Greece,2021,218.449
+Iceland,2021,26.235
+Ireland,2021,530.747
+Portugal,2021,256.226
+Argentina,2021,486.04
+New Zealand,2021,249.785
+Australia,2021,1655.838
+"Tã¼Rkiye, Republic Of",2021,827.673
+South Africa,2021,419.878
+Colombia,2021,318.525
+Bolivia,2021,40.701
+Brazil,2021,1670.65
+Costa Rica,2021,64.954
+Chile,2021,315.411
+Ecuador,2021,107.179
+Dominican Republic,2021,95.067
+El Salvador,2021,29.043
+Mexico,2021,1316.569
+Panama,2021,67.396
+Haiti,2021,21.017
+Honduras,2021,28.146
+Guatemala,2021,86.443
+Nicaragua,2021,14.208
+Uruguay,2021,60.742
+"Venezuela, Repãºblica Bolivariana De",2021,56.615
+Peru,2021,229.832
+Paraguay,2021,39.951
+Dominica,2021,0.555
+"Bahamas, The",2021,12.037
+"Aruba, Kingdom Of The Netherlands",2021,2.855
+Antigua And Barbuda,2021,1.602
+Jamaica,2021,15.982
+Belize,2021,2.429
+Barbados,2021,5.275
+Grenada,2021,1.122
+St. Kitts And Nevis,2021,0.859
+Guyana,2021,8.041
+Puerto Rico,2021,106.427
+St. Vincent And The Grenadines,2021,0.888
+St. Lucia,2021,1.869
+Suriname,2021,3.084
+Trinidad And Tobago,2021,24.223
+Iraq,2021,210.753
+"Iran, Islamic Republic Of",2021,307.337
+"Bahrain, Kingdom Of",2021,40.84
+Cyprus,2021,30.393
+Oman,2021,87.324
+Kuwait,2021,148.346
+Jordan,2021,46.362
+Israel,2021,489.736
+Qatar,2021,179.732
+Lebanon,2021,19.782
+United Arab Emirates,2021,422.441
+"Egypt, Arab Republic Of",2021,423.3
+Saudi Arabia,2021,982.661
+"Afghanistan, Islamic Republic Of",2021,14.278
+"Yemen, Republic Of",2021,19.394
+West Bank And Gaza,2021,18.109
+Bangladesh,2021,416.265
+Bhutan,2021,2.621
+Cambodia,2021,36.797
+Myanmar,2021,55.232
+Brunei Darussalam,2021,14.006
+Indonesia,2021,1186.51
+Taiwan Province Of China,2021,776.965
+"Hong Kong Special Administrative Region, People'S Republic Of China",2021,368.954
+Sri Lanka,2021,88.609
+Malaysia,2021,373.785
+Lao People'S Democratic Republic,2021,18.533
+"Macao Special Administrative Region, People'S Republic Of China",2021,30.969
+"Korea, Republic Of",2021,1942.314
+"Timor-Leste, Democratic Republic Of",2021,3.625
+India,2021,3167.271
+Singapore,2021,436.591
+Philippines,2021,394.087
+Maldives,2021,5.24
+Nepal,2021,36.927
+Pakistan,2021,348.481
+"Palau, Republic Of",2021,0.236
+Thailand,2021,506.195
+Djibouti,2021,3.393
+Vietnam,2021,370.076
+Botswana,2021,18.75
+Angola,2021,84.375
+Algeria,2021,185.85
+Central African Republic,2021,2.672
+Cameroon,2021,45.036
+Burundi,2021,3.356
+Cabo Verde,2021,2.053
+"Congo, Democratic Republic Of The",2021,57.718
+"Congo, Republic Of",2021,13.387
+Chad,2021,16.975
+"Comoros, Union Of The",2021,1.273
+Benin,2021,17.699
+"Equatorial Guinea, Republic Of",2021,12.222
+Guinea-Bissau,2021,1.722
+"Ethiopia, The Federal Democratic Republic Of",2021,99.261
+"Gambia, The",2021,2.045
+Gabon,2021,19.455
+Guinea,2021,16.32
+Ghana,2021,79.514
+Malawi,2021,12.475
+Kenya,2021,109.875
+Cã´Te D'Ivoire,2021,72.833
+Liberia,2021,3.509
+"Lesotho, Kingdom Of",2021,2.445
+"Mauritania, Islamic Republic Of",2021,9.126
+Mali,2021,19.32
+"Madagascar, Republic Of",2021,14.355
+Libya,2021,35.216
+Morocco,2021,142.022
+Mauritius,2021,11.484
+Niger,2021,14.923
+Nigeria,2021,609.479
+"Mozambique, Republic Of",2021,16.168
+Sierra Leone,2021,7.165
+Senegal,2021,27.584
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2021,0.529
+Rwanda,2021,11.066
+Zimbabwe,2021,52.413
+Sudan,2021,35.141
+"South Sudan, Republic Of",2021,5.94
+Somalia,2021,9.484
+Seychelles,2021,1.49
+Namibia,2021,12.399
+Tunisia,2021,46.813
+Togo,2021,8.338
+"Tanzania, United Republic Of",2021,67.964
+"Eswatini, Kingdom Of",2021,4.786
+Solomon Islands,2021,1.523
+Kiribati,2021,0.285
+Burkina Faso,2021,19.708
+Uganda,2021,42.808
+Zambia,2021,22.096
+Tonga,2021,0.52
+Vanuatu,2021,0.921
+Samoa,2021,0.86
+"Nauru, Republic Of",2021,0.176
+"Fiji, Republic Of",2021,4.159
+Papua New Guinea,2021,26.113
+"Belarus, Republic Of",2021,68.207
+"Marshall Islands, Republic Of The",2021,0.259
+"Micronesia, Federated States Of",2021,0.392
+Tuvalu,2021,0.062
+"Armenia, Republic Of",2021,13.879
+"Azerbaijan, Republic Of",2021,54.825
+Albania,2021,17.985
+"Kazakhstan, Republic Of",2021,197.112
+Georgia,2021,18.849
+Russian Federation,2021,1828.927
+Bulgaria,2021,84.477
+Kyrgyz Republic,2021,9.256
+"Moldova, Republic Of",2021,13.694
+"Tajikistan, Republic Of",2021,8.934
+"China, People'S Republic Of",2021,18190.803
+"Uzbekistan, Republic Of",2021,77.34
+Czech Republic,2021,290.973
+Turkmenistan,2021,49.477
+Ukraine,2021,199.835
+"Serbia, Republic Of",2021,65.83
+"Latvia, Republic Of",2021,38.209
+Slovak Republic,2021,120.641
+"Estonia, Republic Of",2021,37.226
+Mongolia,2021,15.286
+Montenegro,2021,5.827
+Hungary,2021,183.283
+"Slovenia, Republic Of",2021,61.582
+Bosnia And Herzegovina,2021,23.688
+"Lithuania, Republic Of",2021,67.068
+"Croatia, Republic Of",2021,69.055
+"Poland, Republic Of",2021,689.253
+"North Macedonia, Republic Of",2021,14.008
+"Kosovo, Republic Of",2021,9.418
+Romania,2021,286.783
+United Kingdom,2022,3125.404
+United States,2022,26054.6
+Germany,2022,4204.327
+Austria,2022,472.145
+Belgium,2022,594.081
+Italy,2022,2105.723
+Denmark,2022,400.115
+France,2022,2796.987
+Netherlands,2022,1047.364
+Luxembourg,2022,80.865
+"San Marino, Republic Of",2022,1.833
+Switzerland,2022,828.513
+Sweden,2022,575.071
+Norway,2022,596.298
+Finland,2022,280.474
+"Liechtenstein, Principality Of",2022,7.378
+Canada,2022,2190.411
+Japan,2022,4263.231
+"Andorra, Principality Of",2022,3.376
+Spain,2022,1449.99
+Malta,2022,18.943
+Greece,2022,219.053
+Iceland,2022,29.166
+Ireland,2022,548.773
+Portugal,2022,257.101
+Argentina,2022,633.52
+New Zealand,2022,245.228
+Australia,2022,1725.433
+"Tã¼Rkiye, Republic Of",2022,924.752
+South Africa,2022,407.43
+Colombia,2022,345.632
+Bolivia,2022,44.329
+Brazil,2022,1951.849
+Costa Rica,2022,69.235
+Chile,2022,301.27
+Ecuador,2022,116.133
+Dominican Republic,2022,113.813
+El Salvador,2022,31.87
+Mexico,2022,1466.935
+Panama,2022,76.479
+Haiti,2022,19.826
+Honduras,2022,31.425
+Guatemala,2022,95.642
+Nicaragua,2022,15.634
+Uruguay,2022,70.6
+"Venezuela, Repãºblica Bolivariana De",2022,89.013
+Peru,2022,248.204
+Paraguay,2022,41.953
+Dominica,2022,0.607
+"Bahamas, The",2022,13.897
+"Aruba, Kingdom Of The Netherlands",2022,3.266
+Antigua And Barbuda,2022,1.867
+Jamaica,2022,18.71
+Belize,2022,2.847
+Barbados,2022,6.257
+Grenada,2022,1.224
+St. Kitts And Nevis,2022,0.98
+Guyana,2022,14.718
+Puerto Rico,2022,113.844
+St. Vincent And The Grenadines,2022,0.97
+St. Lucia,2022,2.334
+Suriname,2022,3.631
+Trinidad And Tobago,2022,28.341
+Iraq,2022,288.059
+"Iran, Islamic Republic Of",2022,403.254
+"Bahrain, Kingdom Of",2022,46.458
+Cyprus,2022,30.96
+Oman,2022,109.853
+Kuwait,2022,183.539
+Jordan,2022,48.834
+Israel,2022,525.159
+Qatar,2022,235.709
+Lebanon,2022,24.748
+United Arab Emirates,2022,511.403
+"Egypt, Arab Republic Of",2022,475.231
+Saudi Arabia,2022,1239.075
+"Afghanistan, Islamic Republic Of",2022,14.501
+"Yemen, Republic Of",2022,23.534
+West Bank And Gaza,2022,19.166
+Bangladesh,2022,460.201
+Bhutan,2022,2.866
+Cambodia,2022,39.089
+Myanmar,2022,67.403
+Brunei Darussalam,2022,16.682
+Indonesia,2022,1319.101
+Taiwan Province Of China,2022,765.624
+"Hong Kong Special Administrative Region, People'S Republic Of China",2022,358.68
+Sri Lanka,2022,74.584
+Malaysia,2022,407.83
+Lao People'S Democratic Republic,2022,15.121
+"Macao Special Administrative Region, People'S Republic Of China",2022,24.998
+"Korea, Republic Of",2022,1799.363
+"Timor-Leste, Democratic Republic Of",2022,3.209
+India,2022,3346.107
+Singapore,2022,509.018
+Philippines,2022,404.353
+Maldives,2022,6.168
+Nepal,2022,41.183
+Pakistan,2022,374.85
+"Palau, Republic Of",2022,0.247
+Thailand,2022,495.645
+Djibouti,2022,3.563
+Vietnam,2022,411.068
+Botswana,2022,20.321
+Angola,2022,142.442
+Algeria,2022,225.652
+Central African Republic,2022,2.515
+Cameroon,2022,44.442
+Burundi,2022,3.922
+Cabo Verde,2022,2.252
+"Congo, Democratic Republic Of The",2022,66.161
+"Congo, Republic Of",2022,13.967
+Chad,2022,18.052
+"Comoros, Union Of The",2022,1.224
+Benin,2022,17.439
+"Equatorial Guinea, Republic Of",2022,13.717
+Guinea-Bissau,2022,1.721
+"Ethiopia, The Federal Democratic Republic Of",2022,118.958
+"Gambia, The",2022,2.135
+Gabon,2022,20.485
+Guinea,2022,19.589
+Ghana,2022,73.919
+Malawi,2022,12.531
+Kenya,2022,114.733
+Cã´Te D'Ivoire,2022,71.075
+Liberia,2022,3.974
+"Lesotho, Kingdom Of",2022,2.275
+"Mauritania, Islamic Republic Of",2022,9.564
+Mali,2022,19.319
+"Madagascar, Republic Of",2022,15.326
+Libya,2022,43.281
+Morocco,2022,131.245
+Mauritius,2022,12.908
+Niger,2022,15.458
+Nigeria,2022,645.682
+"Mozambique, Republic Of",2022,18.884
+Sierra Leone,2022,7.119
+Senegal,2022,27.75
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2022,0.546
+Rwanda,2022,13.313
+Zimbabwe,2022,48.57
+Sudan,2022,33.5
+"South Sudan, Republic Of",2022,7.533
+Somalia,2022,10.203
+Seychelles,2022,2.018
+Namibia,2022,12.564
+Tunisia,2022,44.596
+Togo,2022,8.144
+"Tanzania, United Republic Of",2022,74.173
+"Eswatini, Kingdom Of",2022,4.741
+Solomon Islands,2022,1.566
+Kiribati,2022,0.271
+Burkina Faso,2022,18.662
+Uganda,2022,47.263
+Zambia,2022,29.164
+Tonga,2022,0.515
+Vanuatu,2022,1.035
+Samoa,2022,0.89
+"Nauru, Republic Of",2022,0.152
+"Fiji, Republic Of",2022,4.978
+Papua New Guinea,2022,31.653
+"Belarus, Republic Of",2022,73.735
+"Marshall Islands, Republic Of The",2022,0.253
+"Micronesia, Federated States Of",2022,0.416
+Tuvalu,2022,0.054
+"Armenia, Republic Of",2022,19.514
+"Azerbaijan, Republic Of",2022,78.807
+Albania,2022,19.189
+"Kazakhstan, Republic Of",2022,225.496
+Georgia,2022,24.985
+Russian Federation,2022,2295.526
+Bulgaria,2022,90.719
+Kyrgyz Republic,2022,12.269
+"Moldova, Republic Of",2022,14.524
+"Tajikistan, Republic Of",2022,10.714
+"China, People'S Republic Of",2022,18307.816
+"Uzbekistan, Republic Of",2022,90.125
+Czech Republic,2022,301.831
+Turkmenistan,2022,56.677
+Ukraine,2022,161.987
+"Serbia, Republic Of",2022,66.798
+"Latvia, Republic Of",2022,38.045
+Slovak Republic,2022,115.975
+"Estonia, Republic Of",2022,38.257
+Mongolia,2022,17.146
+Montenegro,2022,6.265
+Hungary,2022,178.321
+"Slovenia, Republic Of",2022,59.946
+Bosnia And Herzegovina,2022,24.581
+"Lithuania, Republic Of",2022,71.082
+"Croatia, Republic Of",2022,71.26
+"Poland, Republic Of",2022,695.734
+"North Macedonia, Republic Of",2022,13.957
+"Kosovo, Republic Of",2022,9.375
+Romania,2022,296.928
+United Kingdom,2023,3371.118
+United States,2023,27811.5
+Germany,2023,4563.523
+Austria,2023,511.833
+Belgium,2023,644.84
+Italy,2023,2305.27
+Denmark,2023,404.652
+France,2023,3061.093
+Netherlands,2023,1135.803
+Luxembourg,2023,88.815
+"San Marino, Republic Of",2023,2.028
+Switzerland,2023,894.815
+Sweden,2023,578.991
+Norway,2023,482.95
+Finland,2023,295.135
+"Liechtenstein, Principality Of",2023,8.286
+Canada,2023,2173.34
+Japan,2023,4204.573
+"Andorra, Principality Of",2023,3.786
+Spain,2023,1619.949
+Malta,2023,22.617
+Greece,2023,243.569
+Iceland,2023,31.678
+Ireland,2023,567.537
+Portugal,2023,289.781
+Argentina,2023,648.895
+New Zealand,2023,253.789
+Australia,2023,1742.311
+"Tã¼Rkiye, Republic Of",2023,1153.295
+South Africa,2023,381.334
+Colombia,2023,366.292
+Bolivia,2023,45.464
+Brazil,2023,2191.137
+Costa Rica,2023,86.509
+Chile,2023,335.627
+Ecuador,2023,121.147
+Dominican Republic,2023,120.794
+El Salvador,2023,33.854
+Mexico,2023,1798.318
+Panama,2023,83.812
+Haiti,2023,19.603
+Honduras,2023,34.356
+Guatemala,2023,104.354
+Nicaragua,2023,17.813
+Uruguay,2023,77.997
+"Venezuela, Repãºblica Bolivariana De",2023,102.377
+Peru,2023,271.78
+Paraguay,2023,43.118
+Dominica,2023,0.654
+"Bahamas, The",2023,15.271
+"Aruba, Kingdom Of The Netherlands",2023,3.769
+Antigua And Barbuda,2023,2.006
+Jamaica,2023,21.299
+Belize,2023,3.052
+Barbados,2023,6.721
+Grenada,2023,1.336
+St. Kitts And Nevis,2023,1.06
+Guyana,2023,16.919
+Puerto Rico,2023,118.375
+St. Vincent And The Grenadines,2023,1.068
+St. Lucia,2023,2.397
+Suriname,2023,3.445
+Trinidad And Tobago,2023,25.037
+Iraq,2023,270.799
+"Iran, Islamic Republic Of",2023,421.547
+"Bahrain, Kingdom Of",2023,46.192
+Cyprus,2023,33.897
+Oman,2023,105.896
+Kuwait,2023,165.396
+Jordan,2023,51.161
+Israel,2023,513.394
+Qatar,2023,213.003
+Lebanon,2023,23.607
+United Arab Emirates,2023,522.622
+"Egypt, Arab Republic Of",2023,393.828
+Saudi Arabia,2023,1218.585
+"Afghanistan, Islamic Republic Of",2023,17.248
+"Yemen, Republic Of",2023,19.412
+West Bank And Gaza,2023,17.848
+Bangladesh,2023,451.534
+Bhutan,2023,2.923
+Cambodia,2023,42.404
+Myanmar,2023,62.299
+Brunei Darussalam,2023,15.095
+Indonesia,2023,1371.169
+Taiwan Province Of China,2023,757.335
+"Hong Kong Special Administrative Region, People'S Republic Of China",2023,381.043
+Sri Lanka,2023,83.723
+Malaysia,2023,399.949
+Lao People'S Democratic Republic,2023,15.011
+"Macao Special Administrative Region, People'S Republic Of China",2023,45.802
+"Korea, Republic Of",2023,1844.801
+"Timor-Leste, Democratic Republic Of",2023,2.08
+India,2023,3638.49
+Singapore,2023,505.44
+Philippines,2023,437.055
+Maldives,2023,6.611
+Nepal,2023,41.048
+Pakistan,2023,336.555
+"Palau, Republic Of",2023,0.276
+Thailand,2023,515.906
+Djibouti,2023,3.917
+Vietnam,2023,433.008
+Botswana,2023,19.411
+Angola,2023,112.483
+Algeria,2023,248.087
+Central African Republic,2023,2.721
+Cameroon,2023,49.287
+Burundi,2023,4.291
+Cabo Verde,2023,2.501
+"Congo, Democratic Republic Of The",2023,67.426
+"Congo, Republic Of",2023,14.169
+Chad,2023,18.638
+"Comoros, Union Of The",2023,1.328
+Benin,2023,19.679
+"Equatorial Guinea, Republic Of",2023,12.339
+Guinea-Bissau,2023,2.005
+"Ethiopia, The Federal Democratic Republic Of",2023,159.761
+"Gambia, The",2023,2.245
+Gabon,2023,20.059
+Guinea,2023,22.089
+Ghana,2023,80.547
+Malawi,2023,13.439
+Kenya,2023,108.206
+Cã´Te D'Ivoire,2023,79.63
+Liberia,2023,4.39
+"Lesotho, Kingdom Of",2023,2.215
+"Mauritania, Islamic Republic Of",2023,10.724
+Mali,2023,21.184
+"Madagascar, Republic Of",2023,15.87
+Libya,2023,43.958
+Morocco,2023,146.057
+Mauritius,2023,14.101
+Niger,2023,16.809
+Nigeria,2023,487.347
+"Mozambique, Republic Of",2023,20.921
+Sierra Leone,2023,6.397
+Senegal,2023,30.701
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2023,0.696
+Rwanda,2023,14.331
+Zimbabwe,2023,44.372
+Sudan,2023,36.983
+"South Sudan, Republic Of",2023,7.401
+Somalia,2023,10.969
+Seychelles,2023,2.187
+Namibia,2023,12.402
+Tunisia,2023,48.541
+Togo,2023,9.081
+"Tanzania, United Republic Of",2023,78.368
+"Eswatini, Kingdom Of",2023,4.604
+Solomon Islands,2023,1.661
+Kiribati,2023,0.289
+Burkina Faso,2023,20.116
+Uganda,2023,52.003
+Zambia,2023,27.578
+Tonga,2023,0.513
+Vanuatu,2023,1.125
+Samoa,2023,1.045
+"Nauru, Republic Of",2023,0.152
+"Fiji, Republic Of",2023,5.477
+Papua New Guinea,2023,30.729
+"Belarus, Republic Of",2023,71.792
+"Marshall Islands, Republic Of The",2023,0.259
+"Micronesia, Federated States Of",2023,0.444
+Tuvalu,2023,0.051
+"Armenia, Republic Of",2023,24.186
+"Azerbaijan, Republic Of",2023,72.428
+Albania,2023,23.633
+"Kazakhstan, Republic Of",2023,261.84
+Georgia,2023,30.778
+Russian Federation,2023,2059.759
+Bulgaria,2023,102.434
+Kyrgyz Republic,2023,15.187
+"Moldova, Republic Of",2023,16.711
+"Tajikistan, Republic Of",2023,12.203
+"China, People'S Republic Of",2023,18270.351
+"Uzbekistan, Republic Of",2023,102.634
+Czech Republic,2023,345.059
+Turkmenistan,2023,62.814
+Ukraine,2023,181.228
+"Serbia, Republic Of",2023,81.343
+"Latvia, Republic Of",2023,42.584
+Slovak Republic,2023,133.936
+"Estonia, Republic Of",2023,41.482
+Mongolia,2023,20.315
+Montenegro,2023,7.646
+Hungary,2023,214.098
+"Slovenia, Republic Of",2023,69.275
+Bosnia And Herzegovina,2023,27.606
+"Lithuania, Republic Of",2023,79.824
+"Croatia, Republic Of",2023,84.429
+"Poland, Republic Of",2023,812.959
+"North Macedonia, Republic Of",2023,15.772
+"Kosovo, Republic Of",2023,10.47
+Romania,2023,350.847
+United Kingdom,2024,3644.636
+United States,2024,29298.025
+Germany,2024,4684.182
+Austria,2024,523.956
+Belgium,2024,664.365
+Italy,2024,2372.059
+Denmark,2024,424.525
+France,2024,3160.902
+Netherlands,2024,1214.562
+Luxembourg,2024,93.252
+"San Marino, Republic Of",2024,2.082
+Switzerland,2024,938.153
+Sweden,2024,603.715
+Norway,2024,483.593
+Finland,2024,298.607
+"Liechtenstein, Principality Of",2024,8.5
+Canada,2024,2243.637
+Japan,2024,4019.382
+"Andorra, Principality Of",2024,4.038
+Spain,2024,1725.152
+Malta,2024,24.964
+Greece,2024,257.067
+Iceland,2024,33.255
+Ireland,2024,608.974
+Portugal,2024,308.581
+Argentina,2024,637.234
+New Zealand,2024,258.365
+Australia,2024,1795.492
+"Tã¼Rkiye, Republic Of",2024,1358.251
+South Africa,2024,401.076
+Colombia,2024,418.818
+Bolivia,2024,46.967
+Brazil,2024,2179.413
+Costa Rica,2024,95.365
+Chile,2024,330.21
+Ecuador,2024,124.676
+Dominican Republic,2024,124.613
+El Salvador,2024,35.365
+Mexico,2024,1856.366
+Panama,2024,86.524
+Haiti,2024,25.285
+Honduras,2024,37.1
+Guatemala,2024,113.19
+Nicaragua,2024,19.694
+Uruguay,2024,80.961
+"Venezuela, Repãºblica Bolivariana De",2024,119.803
+Peru,2024,294.675
+Paraguay,2024,44.458
+Dominica,2024,0.698
+"Bahamas, The",2024,15.833
+"Aruba, Kingdom Of The Netherlands",2024,4.192
+Antigua And Barbuda,2024,2.208
+Jamaica,2024,21.9
+Belize,2024,3.204
+Barbados,2024,7.169
+Grenada,2024,1.395
+St. Kitts And Nevis,2024,1.079
+Guyana,2024,24.659
+Puerto Rico,2024,125.842
+St. Vincent And The Grenadines,2024,1.162
+St. Lucia,2024,2.574
+Suriname,2024,4.452
+Trinidad And Tobago,2024,25.634
+Iraq,2024,278.771
+"Iran, Islamic Republic Of",2024,416.676
+"Bahrain, Kingdom Of",2024,47.11
+Cyprus,2024,36.322
+Oman,2024,106.943
+Kuwait,2024,160.226
+Jordan,2024,53.428
+Israel,2024,542.285
+Qatar,2024,219.631
+Lebanon,2024,28.28
+United Arab Emirates,2024,552.325
+"Egypt, Arab Republic Of",2024,383.105
+Saudi Arabia,2024,1239.805
+"Afghanistan, Islamic Republic Of",2024,18.08
+"Yemen, Republic Of",2024,19.101
+West Bank And Gaza,2024,13.711
+Bangladesh,2024,450.461
+Bhutan,2024,3.098
+Cambodia,2024,46.098
+Myanmar,2024,61.653
+Brunei Darussalam,2024,15.463
+Indonesia,2024,1396.3
+Taiwan Province Of China,2024,797.004
+"Hong Kong Special Administrative Region, People'S Republic Of China",2024,406.863
+Sri Lanka,2024,98.964
+Malaysia,2024,422.227
+Lao People'S Democratic Republic,2024,15.908
+"Macao Special Administrative Region, People'S Republic Of China",2024,50.182
+"Korea, Republic Of",2024,1875.388
+"Timor-Leste, Democratic Republic Of",2024,2.015
+India,2024,3909.892
+Singapore,2024,547.387
+Philippines,2024,461.617
+Maldives,2024,7.052
+Nepal,2024,42.914
+Pakistan,2024,371.408
+"Palau, Republic Of",2024,0.322
+Thailand,2024,526.518
+Djibouti,2024,4.291
+Vietnam,2024,459.472
+Botswana,2024,19.356
+Angola,2024,115.214
+Algeria,2024,269.14
+Central African Republic,2024,2.831
+Cameroon,2024,54.394
+Burundi,2024,4.827
+Cabo Verde,2024,2.726
+"Congo, Democratic Republic Of The",2024,74.498
+"Congo, Republic Of",2024,14.774
+Chad,2024,19.836
+"Comoros, Union Of The",2024,1.442
+Benin,2024,21.487
+"Equatorial Guinea, Republic Of",2024,12.769
+Guinea-Bissau,2024,2.186
+"Ethiopia, The Federal Democratic Republic Of",2024,142.073
+"Gambia, The",2024,2.355
+Gabon,2024,20.9
+Guinea,2024,24.229
+Ghana,2024,82.825
+Malawi,2024,11.797
+Kenya,2024,119.307
+Cã´Te D'Ivoire,2024,87.096
+Liberia,2024,4.778
+"Lesotho, Kingdom Of",2024,2.298
+"Mauritania, Islamic Republic Of",2024,11.003
+Mali,2024,22.789
+"Madagascar, Republic Of",2024,17.421
+Libya,2024,48.363
+Morocco,2024,160.606
+Mauritius,2024,14.986
+Niger,2024,19.866
+Nigeria,2024,252.109
+"Mozambique, Republic Of",2024,22.745
+Sierra Leone,2024,7.792
+Senegal,2024,32.816
+"Sã£O Tomã© And Prã­Ncipe, Democratic Republic Of",2024,0.828
+Rwanda,2024,14.251
+Zimbabwe,2024,49.154
+Sudan,2024,29.184
+"South Sudan, Republic Of",2024,4.648
+Somalia,2024,12.161
+Seychelles,2024,2.178
+Namibia,2024,13.37
+Tunisia,2024,52.925
+Togo,2024,9.776
+"Tanzania, United Republic Of",2024,79.236
+"Eswatini, Kingdom Of",2024,4.944
+Solomon Islands,2024,1.778
+Kiribati,2024,0.308
+Burkina Faso,2024,23.13
+Uganda,2024,56.232
+Zambia,2024,26.326
+Tonga,2024,0.558
+Vanuatu,2024,1.09
+Samoa,2024,1.176
+"Nauru, Republic Of",2024,0.162
+"Fiji, Republic Of",2024,5.968
+Papua New Guinea,2024,31.496
+"Belarus, Republic Of",2024,76.208
+"Marshall Islands, Republic Of The",2024,0.281
+"Micronesia, Federated States Of",2024,0.471
+Tuvalu,2024,0.056
+"Armenia, Republic Of",2024,25.955
+"Azerbaijan, Republic Of",2024,74.316
+Albania,2024,27.084
+"Kazakhstan, Republic Of",2024,291.48
+Georgia,2024,33.775
+Russian Federation,2024,2173.225
+Bulgaria,2024,112.232
+Kyrgyz Republic,2024,17.491
+"Moldova, Republic Of",2024,18.201
+"Tajikistan, Republic Of",2024,14.199
+"China, People'S Republic Of",2024,18749.759
+"Uzbekistan, Republic Of",2024,114.962
+Czech Republic,2024,347.034
+Turkmenistan,2024,68.675
+Ukraine,2024,190.687
+"Serbia, Republic Of",2024,89.074
+"Latvia, Republic Of",2024,43.508
+Slovak Republic,2024,141.733
+"Estonia, Republic Of",2024,43.117
+Mongolia,2024,23.795
+Montenegro,2024,8.272
+Hungary,2024,223.06
+"Slovenia, Republic Of",2024,72.95
+Bosnia And Herzegovina,2024,29.614
+"Lithuania, Republic Of",2024,84.847
+"Croatia, Republic Of",2024,92.643
+"Poland, Republic Of",2024,914.553
+"North Macedonia, Republic Of",2024,16.679
+"Kosovo, Republic Of",2024,11.2
+Romania,2024,382.854
